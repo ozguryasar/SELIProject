@@ -1,2 +1,4 @@
 # SELIProject
-SELI Project 
+SELI Project
+
+Web Platform for Learning and Inclusion 
